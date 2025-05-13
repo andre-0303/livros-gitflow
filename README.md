@@ -27,7 +27,7 @@ A aplicação consiste em uma página HTML que utiliza JavaScript para buscar da
 ## Como Executar o Projeto
 1. Clone o repositório para sua máquina local:
    ```bash
-   git clone https://github.com/seu-usuario/livros-divertidos.git
+   git clone https://github.com/andre-0303/livros-gitflow.git
    ```
 2. Abra o arquivo `index.html` em um navegador web moderno.
 3. Certifique-se de estar conectado à internet para que a Fetch API possa buscar os dados da Gutendex.
